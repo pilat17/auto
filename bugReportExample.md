@@ -1,3 +1,5 @@
+# 🐞 Эндпоинт ../search/adaptors/special_offer не работает
+
 | Status | Closed |
 | --- | --- |
 | Priority | Low |
