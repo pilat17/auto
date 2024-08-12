@@ -57,8 +57,8 @@ curl 'https://www.aviasales.ru/search/adaptors/special_offer?id=SU&locale=ru&utm
   --compressed
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdb1d0e1-a76f-4d52-90d6-cf52897da3a5/05168188-4d9c-4bc5-97e3-3f47e50d928b/Untitled.png)
+![postman](assets/postman.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdb1d0e1-a76f-4d52-90d6-cf52897da3a5/506c55d8-6df8-4135-bb3e-54566ea7962c/Untitled.png)
+![aviasalesUI](assets/aviasalesUI.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdb1d0e1-a76f-4d52-90d6-cf52897da3a5/05ea7124-49c1-49fe-822c-a3f14a0edf40/Untitled.png)
+![404aviasalesUI](assets/404errorAviasales.png)
